@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "name": "url-shortener",
+    "alias": [
+        "links.joerobot.co.uk"
+    ],
+    "routes": [
+       {
+           "src": "/github",
+           "dest": "https://www.github.com/joerobot"
+       }
+    ]
+}
