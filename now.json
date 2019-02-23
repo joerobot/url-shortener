@@ -15,6 +15,10 @@
             "dest": "https://www.unsplash.com/joerobot"
         },
         {
+            "src": "/twitter",
+            "dest": "https://www.twitter.com/joerobot"
+        },
+        {
             "src": "/edit",
             "dest": "https://github.com/joerobot/url-shortener/edit/master/now.json"
         },
