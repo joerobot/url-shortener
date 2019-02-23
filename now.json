@@ -5,9 +5,13 @@
         "links.joerobot.co.uk"
     ],
     "routes": [
-       {
-           "src": "/github",
-           "dest": "https://www.github.com/joerobot"
-       }
+        {
+            "src": "/edit",
+            "dest": "https://github.com/joerobot/url-shortener/edit/master/now.json"
+        },
+        {
+            "src": "/github",
+            "dest": "https://www.github.com/joerobot"
+        }
     ]
 }
