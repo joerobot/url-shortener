@@ -2,14 +2,9 @@
     "version": 2,
     "name": "url-shortener",
     "alias": [
-        "links.joerobot.co.uk"
+        "hi.joerobot.co.uk"
     ],
     "routes": [
-        {
-            "src": "/.*",
-            "status": 404,
-            "dest": "www.joerobot.co.uk"
-        },
         {
             "src": "/unsplash",
             "dest": "https://www.unsplash.com/joerobot"
