@@ -20,6 +20,10 @@
         {
             "src": "/github",
             "dest": "https://www.github.com/joerobot"
+        },
+        {
+            "src": "/nyan",
+            "dest": "https://www.youtube.com/watch?v=dL0NFSeR0KA"
         }
     ]
 }
