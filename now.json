@@ -26,16 +26,16 @@
             "dest": "https://www.youtube.com/watch?v=dL0NFSeR0KA"
         },
         {
-            "src": "/.*",
-            "dest": "https://www.joerobot.co.uk"
-        },
-        {
             "src": "/linkedin",
             "dest": "https://www.linkedin.com/in/loomingbeard"
         },
         {
             "src": "/medium",
             "dest": "https://medium.com/@joerobot"
+        },
+        {
+            "src": "/.*",
+            "dest": "https://www.joerobot.co.uk"
         }
     ]
 }
