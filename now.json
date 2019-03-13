@@ -28,6 +28,10 @@
         {
             "src": "/.*",
             "dest": "https://www.joerobot.co.uk"
+        },
+        {
+            "src": "/linkedin",
+            "dest": "https://www.linkedin.com/in/loomingbeard"
         }
     ]
 }
