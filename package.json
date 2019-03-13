@@ -1,0 +1,26 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "url-shortener": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerobot/url-shortener.git"
+  },
+  "author": "Joe Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerobot/url-shortener/issues"
+  },
+  "homepage": "https://github.com/joerobot/url-shortener#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "yargs": "^13.2.2"
+  }
+}
