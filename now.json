@@ -24,6 +24,10 @@
         {
             "src": "/nyan",
             "dest": "https://www.youtube.com/watch?v=dL0NFSeR0KA"
+        },
+        {
+            "src": "/.*",
+            "dest": "https://www.joerobot.co.uk"
         }
     ]
 }
