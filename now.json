@@ -32,6 +32,10 @@
         {
             "src": "/linkedin",
             "dest": "https://www.linkedin.com/in/loomingbeard"
+        },
+        {
+            "src": "/medium",
+            "dest": "https://medium.com/@joerobot"
         }
     ]
 }
