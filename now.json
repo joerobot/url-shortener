@@ -7,34 +7,42 @@
     "routes": [
         {
             "src": "/unsplash",
+            "status": 301,
             "headers": { "Location": "https://www.unsplash.com/joerobot" }
         },
         {
             "src": "/twitter",
+            "status": 301,
             "headers": { "Location": "https://www.twitter.com/joerobot" }
         },
         {
             "src": "/edit",
+            "status": 301,
             "headers": { "Location": "https://github.com/joerobot/url-shortener/edit/master/now.json" }
         },
         {
             "src": "/github",
+            "status": 301,
             "headers": { "Location": "https://www.github.com/joerobot" }
         },
         {
             "src": "/nyan",
+            "status": 301,
             "headers": { "Location": "https://www.youtube.com/watch?v=dL0NFSeR0KA" }
         },
         {
             "src": "/linkedin",
+            "status": 301,
             "headers": { "Location": "https://www.linkedin.com/in/loomingbeard" }
         },
         {
             "src": "/medium",
+            "status": 301,
             "headers": { "Location": "https://medium.com/@joerobot" }
         },
         {
             "src": "/.*",
+            "status": 301,
             "headers": { "Location": "https://www.joerobot.co.uk" }
         }
     ]
