@@ -7,35 +7,35 @@
     "routes": [
         {
             "src": "/unsplash",
-            "dest": "https://www.unsplash.com/joerobot"
+            "headers": { "Location": "https://www.unsplash.com/joerobot" }
         },
         {
             "src": "/twitter",
-            "dest": "https://www.twitter.com/joerobot"
+            "headers": { "Location": "https://www.twitter.com/joerobot" }
         },
         {
             "src": "/edit",
-            "dest": "https://github.com/joerobot/url-shortener/edit/master/now.json"
+            "headers": { "Location": "https://github.com/joerobot/url-shortener/edit/master/now.json" }
         },
         {
             "src": "/github",
-            "dest": "https://www.github.com/joerobot"
+            "headers": { "Location": "https://www.github.com/joerobot" }
         },
         {
             "src": "/nyan",
-            "dest": "https://www.youtube.com/watch?v=dL0NFSeR0KA"
+            "headers": { "Location": "https://www.youtube.com/watch?v=dL0NFSeR0KA" }
         },
         {
             "src": "/linkedin",
-            "dest": "https://www.linkedin.com/in/loomingbeard"
+            "headers": { "Location": "https://www.linkedin.com/in/loomingbeard" }
         },
         {
             "src": "/medium",
-            "dest": "https://medium.com/@joerobot"
+            "headers": { "Location": "https://medium.com/@joerobot" }
         },
         {
             "src": "/.*",
-            "dest": "https://www.joerobot.co.uk"
+            "headers": { "Location": "https://www.joerobot.co.uk" }
         }
     ]
 }
