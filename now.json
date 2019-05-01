@@ -55,6 +55,13 @@
             }
         },
         {
+            "src": "/local2019",
+            "status": 301,
+            "headers": {
+                "Location": "https://paper.dropbox.com/doc/Local-Elections-2019-VJ-Dev-Guide--AcQctcvcu2ua_uCmsAdpF1QdAg-6AZTWVoBvnuhq5zWesfrC"
+            }
+        },
+        {
             "src": "/.*",
             "status": 301,
             "headers": {
