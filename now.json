@@ -62,6 +62,13 @@
             }
         },
         {
+            "src": "/movie-listings",
+            "status": 301,
+            "headers": {
+                "Location": "https://movie-listings.joerobot.now.sh/"
+            }
+        },
+        {
             "src": "/.*",
             "status": 301,
             "headers": {

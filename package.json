@@ -2,13 +2,13 @@
   "name": "url-shortener",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./api/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": ""
+    "add": "url-shortener"
   },
   "bin": {
-    "url-shortener": "./cli.js"
+    "url-shortener": "./api/cli.js"
   },
   "repository": {
     "type": "git",
